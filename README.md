@@ -1,10 +1,9 @@
 # 👋 Fala, eu sou o Ricardo
 
-Cientista/Engenheiro de Dados em formação, viciado em tecnologia, aviação, pipelines certinhos e dashboards bem-feitos.  
+Cientista/Engenheiro de Dados Junior, viciado em tecnologia, aviação, pipelines certinhos e dashboards bem-feitos.  
 Atualmente cursando **Ciência de Dados (Estácio)** e desenvolvendo projetos que simulam pipelines reais — ETL, modelagem, automação e arquitetura de dados na prática.
 
-Sou curioso por natureza: se tem dado, tem história. Se tem caos, eu organizo.  
-Se tem avião, eu tô olhando o FMC. ✈️
+Sou movido por resolver problemas. Gosto de entender a origem dos dados, organizar processos e estruturar pipelines claros.
 
 ---
 
