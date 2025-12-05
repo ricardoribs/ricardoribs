@@ -54,7 +54,7 @@ Pequenos utilitários e fluxos que uso no dia a dia (limpeza de dados, ETL rápi
 
 ## ✈️ Sobre mim 
  
-- Engenheiro de D'ados Junior  
+- Engenheiro de Dados Junior  
 - Buscando vaga como **Estagiário ou Analista Júnior de Dados / Automação**
 
 ---
