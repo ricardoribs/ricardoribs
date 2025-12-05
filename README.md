@@ -14,7 +14,7 @@ Sou movido por resolver problemas. Gosto de entender a origem dos dados, organiz
 - Modelo tabelas no formato **Star Schema** (Fato + Dimensões).  
 - Crio automações, scripts e fluxos reutilizáveis pra deixar a vida mais fácil.  
 - Desenvolvo dashboards no **Looker Studio / Power BI**.  
-- Escrevo códigos limpos, organizados e bem documentados (na maior parte do tempo 👀).
+- Escrevo códigos limpos, organizados e bem documentados
 
 ---
 
