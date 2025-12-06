@@ -1,71 +1,55 @@
-# 👋 Fala, eu sou o Ricardo
+# ✈️ Olá, eu sou o Ricardo!
 
-Cientista/Engenheiro de Dados Junior, viciado em tecnologia, aviação, pipelines certinhos e dashboards bem-feitos.  
-Atualmente cursando **Ciência de Dados (Estácio)** e desenvolvendo projetos que simulam pipelines reais — ETL, modelagem, automação e arquitetura de dados na prática.
+### 🔧 Data Engineer | Aviation Enthusiast | Problem Solver
 
-Sou movido por resolver problemas. Gosto de entender a origem dos dados, organizar processos e estruturar pipelines claros.
+Sou um Cientista/Engenheiro de Dados em formação, focado em construir **pipelines resilientes** e **arquiteturas escaláveis**. Atualmente cursando Ciência de Dados e transformando dados brutos em inteligência de negócios.
 
----
-
-## 🚀 O que eu faço
-
-- Construo **pipelines de dados** (ETL/ELT) usando Python, DuckDB, Pandas, Prefect e SQL.  
-- Estruturo Data Lakes no esquema **Bronze → Silver → Gold**.  
-- Modelo tabelas no formato **Star Schema** (Fato + Dimensões).  
-- Crio automações, scripts e fluxos reutilizáveis pra deixar a vida mais fácil.  
-- Desenvolvo dashboards no **Looker Studio / Power BI**.  
-- Escrevo códigos limpos, organizados e bem documentados
+* 🔭 **Trabalhando em:** Projetos de Data Warehouse com arquitetura Medallion.
+* 🌱 **Aprendendo:** dbt (Data Build Tool) e orquestração avançada.
+* ✈️ **Interesses:** Aviação, Automação e Dashboards que contam histórias.
+* 🎯 **Objetivo:** Estágio ou Analista Jr. em Engenharia de Dados.
 
 ---
 
-## 🛠️ Stack & Tecnologias
+### 🛠️ Tech Stack
 
-**Linguagens:**  
-`Python` · `SQL`
+**Linguagens & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Bancos / Data Warehouse:**  
-`DuckDB` · `BigQuery`
+**Engenharia & Data Warehouse:**
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-070E38?style=for-the-badge&logo=prefect&logoColor=white)
 
-**Frameworks & Orquestração:**  
-`Pandas` · `Prefect` · `dbt (in progress)`
-
-**Viz & Automação:**  
-`Power BI` · `Looker Studio` · `Excel Avançado`
-
-**Ferramentas:**  
-`Git/GitHub` · `Jira` · `Zendesk` · `SAP`
-
----
-
-## 📦 Projetos em Destaque
-
-### 🔹 mini-dw-vendas  
-Pipeline completo em Python com arquitetura Medallion, orquestrado com Prefect e processado em DuckDB.  
-Modelagem dimensional, Data Quality e exportação para visualização.  
-→ *Repositório fixado no topo*
-
-### 🔹 mini-warehouse (aviação) 
-Mini DW focado em dados aeronáuticos, com ingestão de dados abertos, modelagem e análises.
-
-### 🔹 Automação & Scripts  
-Pequenos utilitários e fluxos que uso no dia a dia (limpeza de dados, ETL rápido, scrapings etc).
+**Visualização & Ferramentas:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## ✈️ Sobre mim 
- 
-- Engenheiro de Dados Junior  
-- Buscando vaga como **Estagiário ou Analista Júnior de Dados / Automação**
+### 🚀 Projetos em Destaque
+
+#### 🔹 [Mini DW Vendas](Link_Do_Repo)
+*Pipeline ELT completo simulando um ambiente corporativo.*
+* **Arquitetura:** Medallion (Bronze → Silver → Gold) processado localmente.
+* **Tech:** Python, DuckDB, Prefect.
+* **Destaque:** Implementação de checagem de qualidade de dados (Data Quality).
+*(Sugerido: Colocar aqui um diagrama da arquitetura ou print do fluxo no Prefect)*
+
+#### 🔹 [Aviation Data Warehouse](Link_Do_Repo) ✈️
+*Análise de dados aeronáuticos reais.*
+* Ingestão de dados públicos de tráfego aéreo.
+* Modelagem dimensional (Star Schema) para performance.
+*(Sugerido: Colocar um print de um gráfico legal sobre voos)*
 
 ---
 
-## 📫 Como me achar
-
-**GitHub:** você já está aqui 😉  
-**LinkedIn:** *(www.linkedin.com/in/ricardo-ribeiro12)*  
-
+### 📊 GitHub Stats
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 
 ---
 
-## ⭐ Se curtir algum projeto, deixa uma estrela  
-Ajuda mais do que parece ✨
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ribeiro12)
