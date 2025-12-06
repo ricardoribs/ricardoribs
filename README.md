@@ -56,11 +56,11 @@ Atualmente, dedico-me a transformar dados brutos em ativos de negócio usando a 
 
 ### ⚡ GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&theme=dracula"/>
-</div>
+### ⚡ GitHub Stats
 
+![Estatísticas do Ricardo](https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&theme=dracula)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&theme=dracula)
 ---
 
 ### 📫 Contato & Redes
