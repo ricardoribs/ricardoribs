@@ -51,13 +51,7 @@ Atualmente, dedico-me a transformar dados brutos em ativos de negócio usando a 
 * Ingestão de dados públicos via API, containerizada com **Docker**.
 * Armazenamento em nuvem (**GCP/BigQuery**) e visualização de rotas e performance.
 * Modelagem dimensional otimizada para Analytics.
-
 ---
-
-![Snake animation](https://github.com/ricardoribs/ricardoribs/actions/workflows/snake.yml/badge.svg)
-
----
-
 ### 📫 Contato & Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ribeiro12)
