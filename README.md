@@ -54,13 +54,8 @@ Atualmente, dedico-me a transformar dados brutos em ativos de negócio usando a 
 
 ---
 
-### ⚡ GitHub Stats
+![Snake animation](https://github.com/ricardoribs/ricardoribs/actions/workflows/snake.yml/badge.svg)
 
-### ⚡ GitHub Stats
-
-![Estatísticas do Ricardo](https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&theme=dracula)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&theme=dracula)
 ---
 
 ### 📫 Contato & Redes
