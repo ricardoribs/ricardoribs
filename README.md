@@ -44,7 +44,7 @@ Pipeline completo em Python com arquitetura Medallion, orquestrado com Prefect e
 Modelagem dimensional, Data Quality e exportação para visualização.  
 → *Repositório fixado no topo*
 
-### 🔹 mini-warehouse (aviação) *[em construção]*  
+### 🔹 mini-warehouse (aviação) 
 Mini DW focado em dados aeronáuticos, com ingestão de dados abertos, modelagem e análises.
 
 ### 🔹 Automação & Scripts  
