@@ -1,6 +1,6 @@
 # ✈️ Olá, eu sou o Ricardo!
 
-### 🔧 Data Engineer | Cloud & Infrastructure | Aviation Enthusiast
+### 🔧 Data Engineer | Cloud & Infrastructure 
 
 Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **pipelines escaláveis**. Minha abordagem combina a engenharia de software (versionamento, testes, CI/CD) com a inteligência de dados.
 
