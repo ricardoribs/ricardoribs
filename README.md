@@ -1,59 +1,65 @@
-# ✈️ Olá, eu sou o Ricardo!
+<div align="center">
 
-### 🔧 Data Engineer | Cloud & Infrastructure 
+# Olá, eu sou o Ricardo!
 
-Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **pipelines escaláveis**. Minha abordagem combina a engenharia de software (versionamento, testes, CI/CD) com a inteligência de dados.
+### Data Engineer | Cloud & Infrastructure
 
-Atualmente, dedico-me a transformar dados brutos em ativos de negócio usando a **Modern Data Stack**, com forte ênfase em containerização e orquestração em nuvem.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ribeiro12)
 
-* 🔭 **Foco Atual:** Construção de Data Lakes escaláveis em arquitetura Híbrida/Multi-Cloud (AWS & GCP).
-* 🛠️ **Especialidade:** Pipelines ELT, Modelagem Dimensional (Star Schema), Containerização (Docker) e Transformação (dbt).
-* 🎯 **Objetivo:** Atuar como Engenheiro de Dados (Jr/Pleno) resolvendo problemas de infraestrutura e qualidade de dados.
+</div>
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### Sobre
 
-**☁️ Cloud & Infraestrutura:**
+Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **pipelines escaláveis**. Minha abordagem combina o rigor da engenharia de software (CI/CD, testes) com a inteligência de negócios.
+
+**Foco Atual:** Construção de Data Lakes em arquitetura Híbrida/Multi-Cloud (AWS & GCP).
+**Especialidades:** Pipelines ELT, Modelagem Dimensional (Star Schema), Docker e dbt.
+**Objetivo:** Criar soluções de infraestrutura que garantam a qualidade e disponibilidade dos dados.
+
+---
+
+### Arsenal Tecnológico
+
+<div align="center">
+
+**Cloud & Infraestrutura**
+<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**⚙️ Engenharia & Orquestração:**
+**Engenharia & Orquestração**
+<br>
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-070E38?style=for-the-badge&logo=prefect&logoColor=white)
 
-**🐍 Linguagens & Armazenamento:**
+**Linguagens & Banco de Dados**
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**📊 Viz & BI:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
-#### 🔹 [Enterprise Data Warehouse (Vendas)](https://github.com/ricardoribs/mini-dw-vendas.git)
-*Pipeline ELT Moderno focado em qualidade e governança.*
-* **Arquitetura:** Medallion (Bronze → Silver → Gold).
-* **Stack:** Python, DuckDB, **dbt** (para transformações e testes) e orquestração via **Airflow**.
-* **Destaque:** Implementação de Data Quality e documentação automática de linhagem de dados.
+| Projeto | Stack Principal | Descrição |
+| :--- | :--- | :--- |
+| [**Enterprise Data Warehouse**](https://github.com/ricardoribs/mini-dw-vendas.git) | DuckDB, dbt, Airflow | Pipeline ELT completo com arquitetura **Medallion**. Implementa testes de qualidade de dados (Data Quality) e documentação automática. |
+| [**Aviation Analytics Hub**](https://github.com/ricardoribs/mini-dw-aviacao.git) | GCP, Docker, BigQuery | Data Lakehouse com dados reais de aviação. Ingestão containerizada e modelagem dimensional otimizada para Analytics em nuvem. |
 
-#### 🔹 [Aviation Analytics Hub](https://github.com/ricardoribs/mini-dw-aviacao.git) ✈️
-*Data Lakehouse focado em dados aeronáuticos reais.*
-* Ingestão de dados públicos via API, containerizada com **Docker**.
-* Armazenamento em nuvem (**GCP/BigQuery**) e visualização de rotas e performance.
-* Modelagem dimensional otimizada para Analytics.
 ---
-### 📫 Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ribeiro12)
+### Estatísticas do GitHub
 
-*"Buscando sempre a origem do dado, a lógica do processo e a clareza da solução."*
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&theme=dracula"/>
+</div>
