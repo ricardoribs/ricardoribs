@@ -14,8 +14,8 @@
 
 Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **pipelines escaláveis**. Minha abordagem combina o rigor da engenharia de software (CI/CD, testes) com a inteligência de negócios.
 
-**Foco Atual:** Construção de Data Lakes em arquitetura Híbrida/Multi-Cloud (AWS & GCP).
-**Especialidades:** Pipelines ELT, Modelagem Dimensional (Star Schema), Docker e dbt.
+**Foco Atual:** Construção de Data Lakes em arquitetura Híbrida/Multi-Cloud (AWS & GCP).  
+**Especialidades:** Pipelines ELT, Modelagem Dimensional (Star Schema), Docker e dbt.  
 **Objetivo:** Criar soluções de infraestrutura que garantam a qualidade e disponibilidade dos dados.
 
 ---
@@ -24,20 +24,20 @@ Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **
 
 <div align="center">
 
-**Cloud & Infraestrutura**
+**Cloud & Infraestrutura**  
 <br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Engenharia & Orquestração**
+**Engenharia & Orquestração**  
 <br>
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-070E38?style=for-the-badge&logo=prefect&logoColor=white)
 
-**Linguagens & Banco de Dados**
+**Linguagens & Banco de Dados**  
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -60,6 +60,8 @@ Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&theme=dracula"/>
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&cache_seconds=86400" />
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&cache_seconds=86400" />
 </div>
