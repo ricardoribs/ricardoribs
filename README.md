@@ -1,66 +1,90 @@
-<h1 align="center">Olá, eu sou o Ricardo!</h1>
-<h3 align="center">Data Engineer | Cloud & Infrastructure</h3>
+<h1 align="center">Ricardo Ribeiro</h1>
+
+<p align="center">
+  <strong>Data Engineer</strong> · Cloud · Data Infrastructure
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardo-ribeiro12">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ricardo--ribeiro12-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-## Sobre
-
-Sou um Engenheiro de Dados focado em construir **arquiteturas resilientes** e **pipelines escaláveis**. Minha abordagem combina o rigor da engenharia de software (CI/CD, testes) com a inteligência de negócios.
-
-**Foco Atual:** Construção de Data Lakes em arquitetura Híbrida/Multi-Cloud (AWS & GCP).  
-**Especialidades:** Pipelines ELT, Modelagem Dimensional (Star Schema), Docker e dbt.  
-**Objetivo:** Criar soluções de infraestrutura que garantam a qualidade e disponibilidade dos dados.
-
----
-
-## Arsenal Tecnológico
-
-**Cloud & Infraestrutura**
+<br/>
 
 <p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+Engenheiro de Dados focado em <strong>arquiteturas analíticas confiáveis</strong>,<br/>
+pipelines escaláveis e infraestrutura orientada a dados críticos.
 </p>
 
-**Engenharia & Orquestração**
-
 <p align="center">
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img alt="Prefect" src="https://img.shields.io/badge/Prefect-070E38?style=for-the-badge&logo=prefect&logoColor=white" />
+Atuação do dado bruto ao consumo final, aplicando princípios sólidos de engenharia:<br/>
+testes, versionamento, automação e observabilidade.
 </p>
 
-**Linguagens & Banco de Dados**
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+<br/>
 
 ---
 
-## Projetos em Destaque
+### ✦ Stack principal
 
-| Projeto | Stack Principal | Descrição |
-| :--- | :--- | :--- |
-| **Enterprise Data Warehouse** | DuckDB, dbt, Airflow | Pipeline ELT completo com arquitetura **Medallion**. Implementa testes de qualidade de dados (Data Quality) e documentação automática. |
-| **Aviation Analytics Hub** | GCP, Docker, BigQuery | Data Lakehouse com dados reais de aviação. Ingestão containerizada e modelagem dimensional otimizada para Analytics em nuvem. |
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-070E38?style=flat&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+<br/>
 
 ---
 
-## Estatísticas do GitHub
+### ✦ Projetos em destaque
 
 <p align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&cache_seconds=86400" />
-  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&cache_seconds=86400" />
+  <a href="https://github.com/ricardoribs/luisbank-data-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=luisbank-data-platform" />
+  </a>
+  <a href="https://github.com/ricardoribs/data-shield-lakehouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=data-shield-lakehouse" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ricardoribs/RICARDO_RIBEIRO_DDF_TECH_122025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=RICARDO_RIBEIRO_DDF_TECH_122025" />
+  </a>
+</p>
+
+<p align="center">
+Plataformas de dados end-to-end com foco em <strong>engenharia</strong>,<br/>
+qualidade, governança e arquitetura analítica escalável.
+</p>
+
+<br/>
+
+---
+
+### ✦ Princípios de engenharia
+
+- Pipeline sem teste é script  
+- Dado sem contrato não é confiável  
+- Infra como código não é opcional  
+- Observabilidade é requisito, não extra  
+- Modelagem vem antes do dashboard  
+
+<br/>
+
+---
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ricardoribs&show_icons=true&hide_title=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoribs&layout=compact&hide_title=true" />
 </p>
