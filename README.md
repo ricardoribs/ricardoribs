@@ -50,27 +50,57 @@ testes, versionamento, automação e observabilidade.
 
 ---
 
-### ✦ Projetos em destaque
+---
 
-<p align="center">
-  <a href="https://github.com/ricardoribs/luisbank-data-platform">
-    <img src="https://opengraph.githubassets.com/1/ricardoribs/luisbank-data-platform" />
-  </a>
-  <a href="https://github.com/ricardoribs/data-shield-lakehouse">
-    <img src="https://opengraph.githubassets.com/1/ricardoribs/data-shield-lakehouse" />
-  </a>
-</p>
+## ✦ Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/ricardoribs/RICARDO_RIBEIRO_DDF_TECH_122025">
-    <img src="https://opengraph.githubassets.com/1/ricardoribs/RICARDO_RIBEIRO_DDF_TECH_122025" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LuisBank Data Platform</h3>
+      <p>
+        Plataforma de dados end-to-end para um cenário bancário: ingestão, transformação e consumo com foco em confiabilidade.
+      </p>
+      <p>
+        <a href="https://github.com/ricardoribs/luisbank-data-platform"><strong>Ver repositório →</strong></a><br/>
+        <sub>ELT · Orquestração · Modelagem · Qualidade</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Data Shield Lakehouse</h3>
+      <p>
+        Lakehouse end-to-end para detecção de fraudes: pipeline moderno com streaming e camadas analíticas.
+      </p>
+      <p>
+        <a href="https://github.com/ricardoribs/data-shield-lakehouse"><strong>Ver repositório →</strong></a><br/>
+        <sub>Streaming · Lakehouse · Analytics · ML-ready</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DDF Tech 12/2025</h3>
+      <p>
+        Entrega técnica estruturada com foco em engenharia, automação e consistência do dado.
+      </p>
+      <p>
+        <a href="https://github.com/ricardoribs/RICARDO_RIBEIRO_DDF_TECH_122025"><strong>Ver repositório →</strong></a><br/>
+        <sub>Arquitetura · ETL/ELT · Boas práticas</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mais projetos</h3>
+      <p>
+        Outros repositórios, estudos e POCs ficam no meu GitHub.
+      </p>
+      <p>
+        <a href="https://github.com/ricardoribs?tab=repositories"><strong>Ver todos →</strong></a><br/>
+        <sub>Organização e evolução contínua</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-Plataformas de dados end-to-end com foco em <strong>engenharia</strong>,<br/>
-qualidade, governança e arquitetura analítica escalável.
-</p>
 
 ---
 
