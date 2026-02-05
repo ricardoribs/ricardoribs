@@ -52,16 +52,16 @@ testes, versionamento, automação e observabilidade.
 
 <p align="center">
   <a href="https://github.com/ricardoribs/luisbank-data-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=luisbank-data-platform&theme=default&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=luisbank-data-platform&theme=default&hide_border=true&cache_seconds=86401" />
   </a>
   <a href="https://github.com/ricardoribs/data-shield-lakehouse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=data-shield-lakehouse&theme=default&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=data-shield-lakehouse&theme=default&hide_border=true&cache_seconds=86401" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ricardoribs/RICARDO_RIBEIRO_DDF_TECH_122025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=RICARDO_RIBEIRO_DDF_TECH_122025&theme=default&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardoribs&repo=RICARDO_RIBEIRO_DDF_TECH_122025&theme=default&hide_border=true&cache_seconds=86401" />
   </a>
 </p>
 
